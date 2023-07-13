@@ -1,0 +1,17 @@
+object Labsheet02_Q01 {
+  def main(args: Array[String]): Unit = {
+    //Q1
+    val (k,i,j: Int) = (2, 2, 2)
+    val (m,n: Int) = (5, 5)
+    val f:Float= 12.0f
+    val g:Float = 4.0f
+    var c: Char = 'X'
+
+    println("a) k + 12 * m = "+(k + 12 * m))
+    println("b) m / j = "+(m / j))
+    println("c) n % j = "+(n % j))
+    println("d) m / j * j = "+(m / j * 5 + g))
+    println("e) f + 10*5 +g = "+(f+10*5+g))
+    println("f) ++i * n = "+((i+1) * n))
+  }
+}
