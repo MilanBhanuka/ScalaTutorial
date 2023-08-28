@@ -1,1 +1,1 @@
-# Scala Tutorial
+# Scala Tutorial  - Functional Programming
